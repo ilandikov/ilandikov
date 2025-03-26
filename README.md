@@ -43,6 +43,8 @@ Below is a list of materials that helped me shape my views.
 - IaC Infrastructure as Code
     - [Infrastructure As Code • Martin Fowler • YOW! 2016 - YouTube](https://youtu.be/5AGEv0sAw6g?si=B-kL_kvN25RCfuBj)
     - [Infrastructure as Code Programs: How to Test, Finally by Daniel Sokolowski and Guido Salvaneschi - YouTube](https://youtu.be/Ucf85L9WdrM?si=ymBUswQpoJwi5Svc)
+- NoSQL
+    - [Introduction to NoSQL • Martin Fowler • GOTO 2012 - YouTube](https://www.youtube.com/watch?v=qI_g07C_Q5I)
 - DynamoDB
     - [AWS re:Invent 2018: Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB (DAT401) - YouTube](https://www.youtube.com/watch?v=HaEPXoXVf2k&t=930s)
     - [AWS re:Invent 2023 - Data modeling core concepts for Amazon DynamoDB (DAT329) - YouTube](https://www.youtube.com/watch?v=l-Urbf4BaWg)
