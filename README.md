@@ -21,6 +21,7 @@ Below is a list of materials that helped me shape my views.
   - [Part 1/3 - Introducing the Gilded Rose kata and writing test cases using Approval Tests, Emily Bache - YouTube](https://youtu.be/zyM2Ep28ED8?si=nncsZvHyKrOqdkzS)
   - [Part 2/3 - Refactoring item logic using ‘lift up conditional', Emily Bache - YouTube](https://www.youtube.com/watch?v=OJmg9aMxPDI)
   - [Part 3/3 - Replace Conditional with Polymorphism, Emily Bache - YouTube](https://www.youtube.com/watch?v=NADVhSjeyJA)
+  - [From 0% to Cleanly Refactored 100% tested code - Llewellyn Falco | Craft 2019](https://www.youtube.com/watch?v=wp6oSVDdbXQ)
 - AI-assisted programming
   - [Andrej Karpathy: Software Is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
 - Architecture
